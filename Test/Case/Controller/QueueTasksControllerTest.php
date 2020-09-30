@@ -32,9 +32,6 @@ class QueueTasksControllerTest extends BaseTest {
 		'plugin.queue.staff',
 		'plugin.queue.review',
 		'plugin.queue.zip',
-		'plugin.queue.survey_caller',
-		'plugin.queue.survey_call',
-		'plugin.queue.survey_admin_note',
 		'plugin.queue.note',
 		'plugin.queue.import_status',
 		'plugin.queue.location_user'
